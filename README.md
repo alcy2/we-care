@@ -1,5 +1,5 @@
 <h1>We care</h1>
-<p>We care é um projeto que utilizei como fonte de estudos, que traz a importância no cuidado dos animais de estimação </p>
+<p>We care é um projeto que utilizei como fonte de estudos, que traz a importância no cuidado dos animais de estimação! </p>
 <br>
 
 ### tecnologias utizlizadas 🚀
